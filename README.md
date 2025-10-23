@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/57039079/68556083-b2038700-0428-11ea-8add-e9abd09f6b23.gif" width="350" alt="Coding gif">
-</div>
+<img align="right" src="https://user-images.githubusercontent.com/57039079/68556083-b2038700-0428-11ea-8add-e9abd09f6b23.gif" width="350" alt="Coding gif" style="margin-left: 25px;">
 
 # 👋 Hello, World!  
 ## I'm **Ravi Loureiro Guimarães** 🚀  
@@ -20,7 +18,7 @@ interfaces dinâmicas e soluções completas do back-end ao front-end.
 
 ---
 
-### 🌐 Connect with me
+### 🌐 Connect with me  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/clemsonrpg)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-loureiro-guimaraes/)
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=gmail&logoColor=white)](mailto:loureiro.ravi@gmail.com)
