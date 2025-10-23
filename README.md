@@ -1,4 +1,6 @@
-<img align="right" width="380" height="380" src="https://user-images.githubusercontent.com/57039079/68556083-b2038700-0428-11ea-8add-e9abd09f6b23.gif">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/57039079/68556083-b2038700-0428-11ea-8add-e9abd09f6b23.gif" width="350" alt="Coding gif">
+</div>
 
 # 👋 Hello, World!  
 ## I'm **Ravi Loureiro Guimarães** 🚀  
@@ -10,7 +12,7 @@
 
 ### 🧭 About Me  
 Sou desenvolvedor Python com experiência em **Django**, criando aplicações web eficientes e escaláveis.  
-Tenho conhecimento em **HTML, CSS e JavaScript**, e busco sempre melhorar minhas habilidades para construir  
+Tenho conhecimento em **HTML, CSS e JavaScript**, e busco sempre aprimorar minhas habilidades para construir  
 interfaces dinâmicas e soluções completas do back-end ao front-end.
 
 📍 **From:** Brasil 🇧🇷  
